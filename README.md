@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rubyGZ, I'm a fulltime student
-- 🌱 I’m currently learning PHP, GoLang, C++, Javascript
-- 👀 I’m interested in learning Dart, Phyton, Ruby
+- 🌱 I’m currently learning PHP, GoLang, C++, Javascript, Dart
+- 👀 I’m interested in learning Phyton, Ruby
 - 📫 How to reach me ruby.gzhang@gmail.com
 
 <!---
